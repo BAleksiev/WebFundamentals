@@ -1,0 +1,8 @@
+
+body {background-color: #add8e6;}
+
+section ul {list-style-type: none; margin: 0;}
+section span {font-style: italic;}
+section img {border: 1px solid #42463c;}
+section ul.profile-info {padding: 0;}
+section ul.profile-info span {font-style: normal; font-weight: bold;}
