@@ -1,17 +1,17 @@
 div {border: 2px solid #000;}
 
-.student-head {width: 300px; height: 300px; border-radius: 300px; background-color: yellow; position: relative;}
+.student-head {width: 400px; height: 400px; border-radius: 400px; background-color: yellow; position: relative;}
 
-.eye {width: 50px; height: 50px; border-radius: 50px; top: 50px; position: absolute; background-color: #fff;}
-.right-eye {left: 70px;}
-.left-eye {right: 70px;}
-.retina {width: 10px; height: 10px; border-radius: 10px; position: absolute; background-color: #000;}
-.right-eye .retina {left: 30px; bottom: 10px;}
+.eye {width: 80px; height: 80px; border-radius: 80px; top: 80px; position: absolute; background-color: #fff;}
+.right-eye {left: 80px;}
+.left-eye {right: 80px;}
+.retina {width: 20px; height: 20px; border-radius: 20px; position: absolute; background-color: #000;}
+.right-eye .retina {left: 40px; bottom: 10px;}
 .left-eye .retina {left: 2px; top: 2px;}
 
-.nose {width: 50px; height: 50px; border-radius: 50px; background-color: #f00; position: absolute; top: 125px; left: 125px;}
+.nose {width: 60px; height: 60px; border-radius: 60px; background-color: #f00; position: absolute; top: 160px; left: 165px;}
 
-.mouth {width: 150px; height: 50px; border-radius: 50px; background-color: #fff; position: absolute; left: 75px; bottom: 50px;}
-.mouth .teeth {width: 30px; height: 30px; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px; top: -2px; position: absolute;}
-.mouth .first {left: 40px;}
-.mouth .second {right: 40px;}
+.mouth {width: 200px; height: 80px; border-radius: 50px; background-color: #fff; position: absolute; left: 100px; bottom: 80px;}
+.mouth .teeth {width: 40px; height: 40px; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px; top: -2px; position: absolute;}
+.mouth .first {left: 56px;}
+.mouth .second {right: 56px;}
